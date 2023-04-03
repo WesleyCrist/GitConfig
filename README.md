@@ -2,8 +2,8 @@
 
 ## git config
 
-- git config --global user.name "WesleyCrist"
-- git config --global user.email wesleycristiano@outlook.com
+- git config --global user.name "USER"
+- git config --global user.email EMAIL
 
 Obs: Onde tem user e email, substituir pelo seu usuário e email respectivamente 
 
